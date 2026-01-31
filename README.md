@@ -5,6 +5,7 @@ A lousy tool to view CycloneDX
 
 ## 日本語での説明
 （主にOSSの）ライセンスを確認しないといけないのに、「SBOMを提供して。SPDX（Lite）なら慣れているけど、別に書式は強制しないよ」と言ったら、相手がCycloneDX（JSON形式）を送りつけてきた場合に使えるツールです。
+
 PackageFileName,PackageVersion,licenseをCSV形式で出力します。PackageFileName,PackageVersionはSPDX Liteに合わせてますので自明でしょう。licenseに関しては制限事項を読んでください。
 
 ### 制限事項
